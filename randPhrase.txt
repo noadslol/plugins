@@ -1,0 +1,1 @@
+var items = Array('No Ads Lol', 'Narwhals and Lions');
