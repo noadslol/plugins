@@ -1,1 +1,4 @@
+<script>
 var items = Array('No Ads Lol', 'Narwhals and Lions');
+document.getElementById("q").placeholder = items[Math.floor(Math.random()*items.length)];
+</script>
