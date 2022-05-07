@@ -1,1 +1,1 @@
-<option value="p/dark.php">Dark Mode</option>
+<option value="p/dark.php">Dark Mode (EXPERIMENTAL)</option>
