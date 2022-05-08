@@ -1,4 +1,4 @@
 <script>
-var items = Array('Narwhals Annoying Lions', 'Ninjas Are Listening', 'Notebooks Are Lightweight');
+var items = Array('Narwhals Annoying Lions', 'Ninjas Are Listening', 'Notebooks Are Lightweight', 'Nightcore Anime Lover', 'Never Abusing Llamas', 'National Anime Library', 'Not Another Locution', 'Not Adding Location-Tracking', 'New And Law-Abiding');
 document.getElementById("q").placeholder = items[Math.floor(Math.random()*items.length)];
 </script>
