@@ -1,3 +1,4 @@
 <option value="p/dark.php">Dark Mode</option>
+<option value="p/disco.php">Discord On Side (Powered by WidgetBot)</option>
 <option value="p/fav.php">Favorite Creator On Homepage</option>
 <option value="p/likes.php">Likes, Dislikes And Views On Video (Powered by RYD)</option>
