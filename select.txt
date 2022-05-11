@@ -1,4 +1,8 @@
+<option disabled>--- LIBRARY-FREE PLUGINS ---</option>
 <option value="p/dark.php">Dark Mode</option>
 <option value="p/disco.php">Discord On Side (Powered by WidgetBot)</option>
 <option value="p/fav.php">Favorite Creator On Homepage</option>
 <option value="p/likes.php">Likes, Dislikes And Views On Video (Powered by RYD)</option>
+<option disabled>--- LIBRARIES ---</option>
+<option value="l/win/winlib.php">Windows Library (Requires Windows OS)</option>
+<option value="l/js/jslib.php">JavaScript Library (Requires JS-Capable Browser)</option>
